@@ -18,7 +18,7 @@ I enjoy building projects that follow the complete workflow:
 - 🗄️ Working with SQL and relational databases
 - 📈 Interested in dashboards, EDA and business-focused analytics
 - 💻 Also build full-stack applications using modern web technologies
-- 🚀 Currently focused on becoming placement-ready through practical projects
+- 🚀 Building practical projects for entry-level opportunities
 
 ---
 
@@ -45,12 +45,13 @@ I enjoy building projects that follow the complete workflow:
 
 | Project | Focus | Technologies |
 |---|---|---|
-| 🧠 Cognitive Risk Classification | ML + PCA | Python, Scikit-learn, PCA |
-| 📉 Customer Churn Prediction | Classification | Python, Pandas, Scikit-learn |
-| ❤️ Health Awareness App | Full Stack | React, Node.js, MongoDB, Docker |
-| 📚 LIBTrack — Library Management | Database Application | Python, SQLite, SQL |
-| 🏥 Pediatric Hospital Management | Web Development | HTML, CSS, JavaScript |
-| ✅ Smart Task Manager | Frontend | HTML, CSS, JavaScript |
+| [🧠 Cognitive Risk Classification](https://github.com/Himanshusharma000/health-awareness-app/tree/main/alzheimer-ml) | ML + PCA | Python, Scikit-learn, PCA |
+| [📉 Customer Churn Prediction](https://github.com/Himanshusharma000/health-awareness-app/tree/main/customer-churn-ml) | Classification | Python, Pandas, Scikit-learn |
+| [📊 Sales Analytics](https://github.com/Himanshusharma000/health-awareness-app/tree/main/sales-analytics) | Analytics | Python, Pandas, NumPy |
+| [❤️ Health Awareness App](https://github.com/Himanshusharma000/health-awareness-app/tree/main/health-awareness-app) | Full Stack | React, Node.js, MongoDB, Docker |
+| [📚 LIBTrack](https://github.com/Himanshusharma000/Library-management-system) | Database Application | Python, SQLite, SQL |
+| [🏥 Pediatric Hospital Management](https://github.com/Himanshusharma000/hospital-management-system) | Web Development | HTML, CSS, JavaScript |
+| [✅ Smart Task Manager](https://github.com/Himanshusharma000/todo-app) | Frontend | HTML, CSS, JavaScript |
 
 ---
 
@@ -76,13 +77,13 @@ I enjoy building projects that follow the complete workflow:
 - **Introduction to Hardware and Operating Systems** — IBM / Coursera
 - **Build-a-Thon Hackathon Participation**
 
-Credentials are represented only when the underlying source material is available and verifiable.
+Credentials are represented conservatively and are not presented as professional experience.
 
 ---
 
 ## 🎯 Current Goal
 
-To build a strong, recruiter-ready portfolio that demonstrates practical ability across:
+To build a strong, recruiter-ready portfolio demonstrating practical ability across:
 
 **Data → Insights → Models → Applications**
 
